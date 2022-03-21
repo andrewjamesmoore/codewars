@@ -1,2 +1,2 @@
 # codewars
-Learning JS and been doing daily challenges from codewards. Storing my solutions here for reference.
+Learning JS and been doing daily challenges from codewars. Storing my solutions here for reference.
